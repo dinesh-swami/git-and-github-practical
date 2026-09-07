@@ -7,3 +7,4 @@ function subtract(a, b) {
 }
 
 console.log("this is mistake");
+console.log("this is mistake");
