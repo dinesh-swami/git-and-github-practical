@@ -22,5 +22,5 @@ jobs:
 
       - name: Test home.html
         run: |
-          test -f does-not-exist.html
+          test -f home.html
           echo "home.html exists - Test passed!"
